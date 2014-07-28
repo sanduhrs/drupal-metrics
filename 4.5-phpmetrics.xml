@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project loc="29428" lloc="8362" cyclomaticComplexity="59.23" maintenabilityIndex="61.82" volume="10025.61" vocabulary="142.45" difficulty="55.92" bugs="3.34" time="52689.34" intelligentContent="132.14" lcom="0.07" instability="0.02" efferentCoupling="0.16" afferentCoupling="0">
+  <modules>
+    <module loc="29428" lloc="8362" cyclomaticComplexity="59.23" maintenabilityIndex="61.82" volume="10025.61" vocabulary="142.45" difficulty="55.92" bugs="3.34" time="52689.34" intelligentContent="132.14" lcom="0.07" instability="0.02" efferentCoupling="0.16" afferentCoupling="0" namespace="web"/>
+    <module loc="8734" lloc="2090" cyclomaticComplexity="51.29" maintenabilityIndex="67.55" volume="7995.37" vocabulary="131.82" difficulty="50.81" bugs="2.67" time="39532.24" intelligentContent="122.71" lcom="0" instability="0" efferentCoupling="0" afferentCoupling="0" namespace="web/includes"/>
+    <module loc="17826" lloc="5280" cyclomaticComplexity="69.66" maintenabilityIndex="54.14" volume="11698.08" vocabulary="161.28" difficulty="64.04" bugs="3.9" time="63138.41" intelligentContent="142.09" lcom="0" instability="0" efferentCoupling="0" afferentCoupling="0" namespace="web/modules"/>
+    <module loc="639" lloc="200" cyclomaticComplexity="34" maintenabilityIndex="48.59" volume="6118.37" vocabulary="116" difficulty="37.72" bugs="2.04" time="15269.5" intelligentContent="148.54" lcom="2" instability="0.5" efferentCoupling="4.5" afferentCoupling="0" namespace="web/themes"/>
+    <module loc="160" lloc="65" cyclomaticComplexity="20" maintenabilityIndex="45.87" volume="2692.86" vocabulary="76" difficulty="24.84" bugs="0.9" time="3716" intelligentContent="108.41" lcom="0" instability="0" efferentCoupling="0" afferentCoupling="0" namespace="web/themes/chameleon"/>
+    <module loc="479" lloc="135" cyclomaticComplexity="48" maintenabilityIndex="51.31" volume="9543.88" vocabulary="156" difficulty="50.59" bugs="3.18" time="26823" intelligentContent="188.66" lcom="4" instability="1" efferentCoupling="9" afferentCoupling="0" namespace="web/themes/engines"/>
+    <module loc="479" lloc="135" cyclomaticComplexity="48" maintenabilityIndex="51.31" volume="9543.88" vocabulary="156" difficulty="50.59" bugs="3.18" time="26823" intelligentContent="188.66" lcom="4" instability="1" efferentCoupling="9" afferentCoupling="0" namespace="web/themes/engines/xtemplate"/>
+    <module loc="1934" lloc="702" cyclomaticComplexity="129" maintenabilityIndex="18.89" volume="37000.61" vocabulary="245" difficulty="109.43" bugs="12.33" time="224947" intelligentContent="338.12" lcom="0" instability="0" efferentCoupling="0" afferentCoupling="0" namespace="web/database"/>
+  </modules>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project loc="6598" lloc="2449" cyclomaticComplexity="18.17" maintenabilityIndex="57.3" volume="3385.56" vocabulary="73.9" difficulty="32.3" bugs="1.13" time="12867.9" intelligentContent="77.14" lcom="1.93" instability="0.2" efferentCoupling="1.29" afferentCoupling="0">
+  <modules>
+    <module loc="6598" lloc="2449" cyclomaticComplexity="18.17" maintenabilityIndex="57.3" volume="3385.56" vocabulary="73.9" difficulty="32.3" bugs="1.13" time="12867.9" intelligentContent="77.14" lcom="1.93" instability="0.2" efferentCoupling="1.29" afferentCoupling="0" namespace="web"/>
+    <module loc="1453" lloc="385" cyclomaticComplexity="14.55" maintenabilityIndex="70.14" volume="2354.14" vocabulary="61.36" difficulty="24.22" bugs="0.78" time="7160.64" intelligentContent="67.46" lcom="3.55" instability="0.27" efferentCoupling="3.45" afferentCoupling="0" namespace="web/includes"/>
+    <module loc="3484" lloc="1387" cyclomaticComplexity="21.53" maintenabilityIndex="50.6" volume="4304.7" vocabulary="89.74" difficulty="42.38" bugs="1.44" time="15751.89" intelligentContent="78.8" lcom="1.58" instability="0.11" efferentCoupling="0.32" afferentCoupling="0" namespace="web/modules"/>
+    <module loc="813" lloc="313" cyclomaticComplexity="22.33" maintenabilityIndex="44.57" volume="2907.64" vocabulary="81" difficulty="18.46" bugs="0.97" time="2984" intelligentContent="161.72" lcom="3.33" instability="1" efferentCoupling="3" afferentCoupling="0" namespace="web/themes"/>
+    <module loc="220" lloc="97" cyclomaticComplexity="6" maintenabilityIndex="51.04" volume="3151.41" vocabulary="84" difficulty="15.96" bugs="1.05" time="2794" intelligentContent="197.46" lcom="1" instability="1" efferentCoupling="3" afferentCoupling="0" namespace="web/themes/unconed"/>
+    <module loc="263" lloc="112" cyclomaticComplexity="40" maintenabilityIndex="37.21" volume="2949.22" vocabulary="72" difficulty="22.92" bugs="0.98" time="3755" intelligentContent="128.7" lcom="5" instability="1" efferentCoupling="3" afferentCoupling="0" namespace="web/themes/yaroon"/>
+    <module loc="330" lloc="104" cyclomaticComplexity="21" maintenabilityIndex="45.46" volume="2622.28" vocabulary="87" difficulty="16.49" bugs="0.87" time="2403" intelligentContent="158.99" lcom="4" instability="1" efferentCoupling="3" afferentCoupling="0" namespace="web/themes/jeroen"/>
+  </modules>
+</project>
